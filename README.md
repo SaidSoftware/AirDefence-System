@@ -1,5 +1,7 @@
 # 🛡️ Air Defense Simulation
 
+<img width="1907" height="1010" alt="image" src="https://github.com/user-attachments/assets/2288a74f-9f5f-4e10-858f-6da769dda480" />
+
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
